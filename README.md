@@ -10,6 +10,8 @@
 - Major in physics.
 - Planning my PhD in the **Great Bay Area**
 
+---
+
 ## 📪 Reach Me
-- [Email](mailto:myhsia@outlook.com)
-- [Instagram](instagram.com/myhsia)
+- [Email: myhsia@outlook.com](mailto:myhsia@outlook.com)
+- [Instagram: @myhsia](instagram.com/myhsia)
