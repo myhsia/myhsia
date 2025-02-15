@@ -1,4 +1,4 @@
-# @myhsia
+# Mingyu Hsia
 
 ## 👀 A Part Time LaTeX Programmer
 - [hduthesis](https://github.com/myhsia/hduthesis): Thesis LaTeX Class for HDU
