@@ -1,5 +1,3 @@
-# Mingyu Hsia
-
 ## 👀 A Part Time LaTeX Programmer
 - [hduthesis](https://github.com/myhsia/hduthesis): Thesis LaTeX Class for HDU
 - [latex3](https://github.com/myhsia/latex3): A branch maintained by me just for add some small feathers sometimes
