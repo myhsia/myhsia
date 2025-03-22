@@ -6,7 +6,7 @@
 
 ## 📝 Undergraduate Student
 - Major in physics.
-- Planning my PhD in the **Great Bay Area**
+- Planning my PhD...
 
 ---
 
