@@ -4,9 +4,9 @@
 - [litetable](https://github.com/myhsia/litetable): LaTeX Class in expl3: A Colorful Time Table
 - ...
 
-## 📝 Undergraduate Student
-- Major in physics.
-- Planning my PhD...
+## 📝 PhD at Westlake University
+- CMP: Quantum transport
+- ...
 
 ---
 
