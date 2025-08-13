@@ -4,7 +4,7 @@
 - [litetable](https://github.com/myhsia/litetable): LaTeX Class in expl3: A Colorful Time Table
 - ...
 
-## 📝 PhD at Westlake University
+## 📝 Ph.D. at Westlake University
 - CMP: Quantum transport
 - ...
 
