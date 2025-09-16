@@ -1,3 +1,14 @@
+# Hi there!
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harry-Chen&theme=transparent)
+
+<a href="https://github.com/myhsia">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=radical&username=myhsia&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/myhsia">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=Harry-Chen&layout=compact" />
+</a>
+
 ## 👀 A Part Time LaTeX Programmer
 - [hduthesis](https://github.com/myhsia/hduthesis): Thesis LaTeX Class for HDU
 - [latex3](https://github.com/myhsia/latex3): A branch maintained by me just for add some small feathers sometimes
