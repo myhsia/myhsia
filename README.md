@@ -24,4 +24,4 @@
 
 ## 📪 Reach Me
 - [Email: xiamingyu@westlake.edu.cn](mailto:xiamingyu@westlake.edu.cn)
-- [Instagram: @myhsia](instagram.com/my.hsia)
+- [Instagram: @myhsia](https://instagram.com/my.hsia)
