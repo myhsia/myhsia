@@ -1,4 +1,4 @@
-# Hi there! | 你好呀，咁多位!
+# Hi there! ｜ 你好呀，咁多位!
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myhsia&theme=transparent)
 
