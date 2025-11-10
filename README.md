@@ -27,8 +27,6 @@
 ## 👀 A Part-Time LaTeX Programmer
 - [westlakethesis](https://github.com/myhsia/westlakethesis): Thesis LaTeX Class for Westlake University (Under conducting)
 - [litetable](https://github.com/myhsia/litetable): LaTeX Class in expl3: A Colorful Time Table
-- [latex3](https://github.com/myhsia/latex3): A branch maintained by me just for add some small feathers sometimes
-- ...
 
 ---
 
