@@ -10,7 +10,7 @@
 </a>
 
 ## 📝 Ph.D. at Westlake University
-- [Laboratory of Theoretical and Computational Chemistry](https://dougroup.westlake.edu.cn/group.html) Yes, u can find me here. A laboratory's name includes "chemistry", but it's more physics :-)
+- I am in the [Laboratory of Theoretical and Computational Chemistry](https://dougroup.westlake.edu.cn/group.html) and one can find me here. A laboratory's name includes "chemistry", but it's more physics :-)
 - Currently, I'm researching MKCT (Memory Kernel Coupling Theory)
 - I am maintaining the Ph.D. course notes: The LaTeX sources of the notes are included in the repositories
 
@@ -35,3 +35,4 @@
 ## 📪 Reach Me
 - [Email: xiamingyu@westlake.edu.cn](mailto:xiamingyu@westlake.edu.cn)
 - [Instagram: @myhsia](https://instagram.com/my.hsia)
+- Or you can travel to Harbin in winter (Very cold 🥶, about 250 Kelvins) to meet me ("和我面基" in Chinese 😋).
