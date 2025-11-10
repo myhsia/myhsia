@@ -17,8 +17,18 @@
 
 ## 📝 Ph.D. at Westlake University
 - [Laboratory of Theoretical and Computational Chemistry](https://dougroup.westlake.edu.cn/group.html) Yes, u can find me here. A laboratory's name includes "chemistry", but it's more physics :-)
-- Currently, I'm researching on MKCT (Memory Kernel Coupling Theory)
-- I am taking the Ph.D. courses: Advanced Quantum Mechanics, ASP, CMP, and QMBT (the hardest one)
+- Currently, I'm researching MKCT (Memory Kernel Coupling Theory)
+- I am maintaining the Ph.D. course notes: The LaTeX sources of the notes are included in the repositories
+
+<div align="center">
+
+| Index | Course | Index | Course |
+|-------|--------|-------|--------|
+| ![Progress](https://progress-bar.xyz/5/?title=🥵%20&scale=5&suffix=X&progress_color=fb3838) | Quantum Many-Body Theory | ![Progress](https://progress-bar.xyz/4/?title=🤯%20&scale=5&suffix=X&progress_color=ffc23d) | Advanced Quantum Mechanics |
+| ![Progress](https://progress-bar.xyz/3/?title=😢%20&scale=5&suffix=X&progress_color=94d23d) | Advanced Statistical Mechanics | ![Progress](https://progress-bar.xyz/3/?title=☹️&scale=5&suffix=X&progress_color=94d23d) | Molecular Spectroscopy |
+| ![Progress](https://progress-bar.xyz/2/?title=😋%20&scale=5&suffix=X&progress_color=0099ff) | Condensed Matter Theory |
+
+</div>
 
 ---
 
