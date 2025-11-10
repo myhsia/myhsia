@@ -1,10 +1,7 @@
 # Hi there! ｜ 你好呀，咁多位!
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myhsia&theme=transparent)
-
 <a href="https://github.com/myhsia">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=radical&username=myhsia&show_icons=true&include_all_commits=true" />
-</a>
+  <img align="center" alt="GitHub Overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myhsia&theme=transparent" />
 <a href="https://github.com/myhsia">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=myhsia&layout=compact" />
 </a>
@@ -12,7 +9,7 @@
 ## 📝 Ph.D. at Westlake University
 - I am in the [Laboratory of Theoretical and Computational Chemistry](https://dougroup.westlake.edu.cn/group.html) and one can find me here. A laboratory's name includes "chemistry", but it's more physics :-)
 - Currently, I'm researching MKCT (Memory Kernel Coupling Theory)
-- I am maintaining the Ph.D. course notes: The LaTeX sources of the notes are included in the repositories
+- I am maintaining the Ph.D. course notes taken at Westlake University; The LaTeX sources of the notes are included in the following repositories
 
 <div align="center">
 
