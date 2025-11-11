@@ -1,10 +1,11 @@
 # Hi there! ｜ 你好呀，咁多位!
 
+<div align="center>
 <a href="https://github.com/myhsia">
-  <img align="center" alt="GitHub Overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myhsia&theme=transparent" />
+  <img align="center" alt="GitHub Overview" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myhsia&theme=transparent" />
 <a href="https://github.com/myhsia">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=myhsia&layout=compact" />
-</a>
+  <img align="center" alt="Top Langs" height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=myhsia&layout=compact" />
+</a></div>
 
 ## 📝 Ph.D. at Westlake University
 - I am in the [Laboratory of Theoretical and Computational Chemistry](https://dougroup.westlake.edu.cn/group.html) and one can find me here. A laboratory's name includes "chemistry", but it's more physics :-)
