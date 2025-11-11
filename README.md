@@ -2,9 +2,9 @@
 
 <div align="center>
 <a href="https://github.com/myhsia">
-  <img align="center" alt="GitHub Overview" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myhsia&theme=transparent" />
+  <img align="center" alt="GitHub Overview" height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myhsia&theme=transparent" />
 <a href="https://github.com/myhsia">
-  <img align="center" alt="Top Langs" height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=myhsia&layout=compact" />
+  <img align="center" alt="Top Langs" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=myhsia&layout=compact" />
 </a></div>
 
 ## 📝 Ph.D. at Westlake University
