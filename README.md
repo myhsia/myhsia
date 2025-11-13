@@ -54,4 +54,4 @@ Using LaTeX3, I developed some packages
 ## 📪 Reach Me
 - [**MAIL** *xiamingyu@westlake.edu.cn*](mailto:xiamingyu@westlake.edu.cn) &nbsp; | &nbsp;
   [**IG** *@my.hsia*](https://instagram.com/my.hsia)
-- Travel to Harbin in Jan (About 250K 🥶) to meet me.
+- Travel to Harbin in Winter (~ 250K 🥶) to meet me.
