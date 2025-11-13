@@ -10,7 +10,7 @@
 
 </div>
 
-## Ph.D. in Physics at Westlake University
+## Ph.D. in Physics, Westlake University
 
 - I am in the [Laboratory of Theoretical and Computational Chemistry](https://dougroup.westlake.edu.cn/group.html) (which sounds like *chemistry*, but is more *physics*), and one can find me here.
 
