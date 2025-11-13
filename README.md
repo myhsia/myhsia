@@ -45,5 +45,6 @@ science, engineering, etc.
 ---
 
 ## 📪 Reach Me
-- [**Email** *xiamingyu@westlake.edu.cn*](mailto:xiamingyu@westlake.edu.cn) | [**Instagram** *@my.hsia*](https://instagram.com/my.hsia)
-- Or travel to Harbin in winter (About $250\,\text K$ 🥶) to meet me.
+- [**MAIL** *xiamingyu@westlake.edu.cn*](mailto:xiamingyu@westlake.edu.cn) &nbsp; | &nbsp;
+  [**IG** *@my.hsia*](https://instagram.com/my.hsia)
+- Travel to Harbin in Jan (About 250K 🥶) to meet me.
