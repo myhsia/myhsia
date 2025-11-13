@@ -1,33 +1,49 @@
 # Hi there! ｜ 你好呀，咁多位!
 
-<a href="https://github.com/myhsia">
-  <img align="center" alt="GitHub Overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myhsia&theme=transparent" />
-<a href="https://github.com/myhsia">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=myhsia&layout=compact" />
-</a>
-
-## 📝 Ph.D. at Westlake University
-- I am in the [Laboratory of Theoretical and Computational Chemistry](https://dougroup.westlake.edu.cn/group.html) and one can find me here. A laboratory's name includes "chemistry", but it's more physics :-)
-- Currently, I'm researching MKCT (Memory Kernel Coupling Theory)
-- I am maintaining the Ph.D. course notes taken at Westlake University; The LaTeX sources of the notes are included in the following repositories
-
 <div align="center">
 
-| Difficulty level | Course | Difficulty level | Course |
-|-------|--------|-------|--------|
-| ![Progress](https://progress-bar.xyz/5/?title=🥵%20&scale=5&suffix=X&progress_color=fb3838&width=150) | [Quantum Many-Body Theory](https://github.com/myhsia/Quantum_Many-Body_Theory-Note) | ![Progress](https://progress-bar.xyz/4/?title=🤯%20&scale=5&suffix=X&progress_color=ffc23d&width=150) | [Advanced Quantum Mechanics](https://github.com/myhsia/Advanced_Quantum_Mechanics-Note) |
-| ![Progress](https://progress-bar.xyz/3/?title=😢%20&scale=5&suffix=X&progress_color=94d23d&width=150) | [Advanced Statistical Mechanics](https://github.com/myhsia/Advanced_Statistical_Mechanics-Note) | ![Progress](https://progress-bar.xyz/3/?title=☹️&scale=5&suffix=X&progress_color=94d23d&width=150) | Molecular Spectroscopy     |
-| ![Progress](https://progress-bar.xyz/2/?title=😋%20&scale=5&suffix=X&progress_color=0099ff&width=150) | [Condensed Matter Theory](https://github.com/myhsia/Condensed_Matter_Theory-Note) |
+<a href="https://github.com/myhsia">
+  <img align="center" alt="GitHub Overview" width = 400em src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myhsia&theme=transparent" />
+<a href="https://github.com/myhsia">
+  <img align="center" alt="Top Langs" width = 350em src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=myhsia&layout=compact" />
+</a>
 
 </div>
 
-## 👀 A Part-Time LaTeX Programmer
-- [westlakethesis](https://github.com/myhsia/westlakethesis): Thesis LaTeX Class for Westlake University (Under conducting)
-- [litetable](https://github.com/myhsia/litetable): LaTeX Class in expl3: A Colorful Time Table
+## Ph.D. in Physics at Westlake University
+
+- I am in the [Laboratory of Theoretical and Computational Chemistry](https://dougroup.westlake.edu.cn/group.html) (which sounds like *chemistry*, but is more *physics*), and one can find me here.
+
+- I am maintaining the Ph.D. course notes taken at Westlake University; The LaTeX sources of the notes are included in the following repositories
+<div align="center">
+
+| Difficulty level | Course |
+|-------|--------|
+| ![Progress](https://progress-bar.xyz/5/?title=🥵%20&scale=5&suffix=X&progress_color=fb3838&width=120) | [Quantum Many-Body Theory](https://github.com/myhsia/Quantum_Many-Body_Theory-Note) |
+| ![Progress](https://progress-bar.xyz/4/?title=🤯%20&scale=5&suffix=X&progress_color=ffc23d&width=120) | [Advanced Quantum Mechanics](https://github.com/myhsia/Advanced_Quantum_Mechanics-Note) |
+| ![Progress](https://progress-bar.xyz/3/?title=😢%20&scale=5&suffix=X&progress_color=94d23d&width=120) | [Advanced Statistical Mechanics](https://github.com/myhsia/Advanced_Statistical_Mechanics-Note) |
+| ![Progress](https://progress-bar.xyz/3/?title=☹️&scale=5&suffix=X&progress_color=94d23d&width=120)    | Molecular Spectroscopy     |
+| ![Progress](https://progress-bar.xyz/2/?title=😋%20&scale=5&suffix=X&progress_color=0099ff&width=120) | [Condensed Matter Theory](https://github.com/myhsia/Condensed_Matter_Theory-Note) |
+
+</div>
+
+- Currently, I'm researching MKCT (Memory Kernel Coupling Theory)
+
+## A Part-Time LaTeX Programmer
+
+Using LaTeX3, I developed a lot of packages
+
+- [whatsnote](https://github.com/myhsia/whatsnote): LaTeX class provides an elegant layout and powerful tools for taking notes in
+science, engineering, etc.
+
+- [litetable](https://github.com/myhsia/litetable): LaTeX package: A Colorful Timetable.
+
+- [notetbamer](https://github.com/myhsia/notebeamer): LaTeX package provides an easy way to print slides on note pages quickly.
+
+- [westlakethesis](https://github.com/myhsia/westlakethesis): Thesis LaTeX Class for Westlake University (Conducting).
 
 ---
 
 ## 📪 Reach Me
-- [Email: xiamingyu@westlake.edu.cn](mailto:xiamingyu@westlake.edu.cn)
-- [Instagram: @myhsia](https://instagram.com/my.hsia)
-- Or you can travel to Harbin in winter (Very cold 🥶, about 250 Kelvins) to meet me ("和我面基" in Chinese 😋).
+- [**Email** *xiamingyu@westlake.edu.cn*](mailto:xiamingyu@westlake.edu.cn) | [**Instagram** *@my.hsia*](https://instagram.com/my.hsia)
+- Or travel to Harbin in winter (About $250\,\text K$ 🥶) to meet me.
