@@ -1,4 +1,4 @@
-# Hi there! ｜ 你好呀，咁多位!
+# Hi there! ｜ 你好，咁多位！
 
 <div align="center">
 
@@ -17,13 +17,13 @@
 - I am maintaining the Ph.D. course notes taken at Westlake University; The LaTeX sources of the notes are included in the following repositories
 <div align="center">
 
-| Difficulty level | Course |
+| Difficulty | Course |
 |-------|--------|
-| ![Progress](https://progress-bar.xyz/5/?title=🥵%20&scale=5&suffix=X&progress_color=fb3838) | [Quantum Many-Body Theory](https://github.com/myhsia/Quantum_Many-Body_Theory-Note) |
-| ![Progress](https://progress-bar.xyz/4/?title=🤯%20&scale=5&suffix=X&progress_color=ffc23d) | [Advanced Quantum Mechanics](https://github.com/myhsia/Advanced_Quantum_Mechanics-Note) |
-| ![Progress](https://progress-bar.xyz/3/?title=😢%20&scale=5&suffix=X&progress_color=94d23d) | [Advanced Statistical Mechanics](https://github.com/myhsia/Advanced_Statistical_Mechanics-Note) |
-| ![Progress](https://progress-bar.xyz/3/?title=☹️&scale=5&suffix=X&progress_color=94d23d)    | Molecular Spectroscopy     |
-| ![Progress](https://progress-bar.xyz/2/?title=😋%20&scale=5&suffix=X&progress_color=0099ff) | [Condensed Matter Theory](https://github.com/myhsia/Condensed_Matter_Theory-Note) |
+| ![Progress](https://progress-bar.xyz/5/?title=🥵%20&scale=5&suffix=X&progress_color=fb3838&width=120) | [Quantum Many-Body Theory](https://github.com/myhsia/Quantum_Many-Body_Theory-Note) |
+| ![Progress](https://progress-bar.xyz/4/?title=🤯%20&scale=5&suffix=X&progress_color=ffc23d&width=120) | [Adv. Quantum Mechanics](https://github.com/myhsia/Advanced_Quantum_Mechanics-Note) |
+| ![Progress](https://progress-bar.xyz/3/?title=😢%20&scale=5&suffix=X&progress_color=94d23d&width=120) | [Adv. Statistical Mechanics](https://github.com/myhsia/Advanced_Statistical_Mechanics-Note) |
+| ![Progress](https://progress-bar.xyz/3/?title=☹️&scale=5&suffix=X&progress_color=94d23d&width=120)    | Molecular Spectroscopy     |
+| ![Progress](https://progress-bar.xyz/2/?title=😋%20&scale=5&suffix=X&progress_color=0099ff&width=120) | [Condensed Matter Theory](https://github.com/myhsia/Condensed_Matter_Theory-Note) |
 
 </div>
 
