@@ -1,27 +1,27 @@
-# Hi there! ｜ 你好呀，咁多位!
+# Hi there! ｜ 你好，咁多位！
 
 <div align="center">
 
 <a href="https://github.com/myhsia">
-  <img align="center" alt="GitHub Overview" width = 500em src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myhsia&theme=transparent" />
+  <img align="center" alt="GitHub Overview" width = 520em src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myhsia&theme=transparent" />
 <a href="https://github.com/myhsia">
-  <img align="center" alt="Top Langs" width = 240em src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=myhsia&layout=compact" />
+  <img align="center" alt="Top Langs" width = 250em src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=myhsia&layout=compact" />
 </a>
 
 </div>
 
-## Ph.D. in Physics at Westlake University
+## Ph.D. in Physics, Westlake University
 
 - I am in the [Laboratory of Theoretical and Computational Chemistry](https://dougroup.westlake.edu.cn/group.html) (which sounds like *chemistry*, but is more *physics*), and one can find me here.
 
 - I am maintaining the Ph.D. course notes taken at Westlake University; The LaTeX sources of the notes are included in the following repositories
 <div align="center">
 
-| Difficulty level | Course |
+| Difficulty | Course |
 |-------|--------|
 | ![Progress](https://progress-bar.xyz/5/?title=🥵%20&scale=5&suffix=X&progress_color=fb3838&width=120) | [Quantum Many-Body Theory](https://github.com/myhsia/Quantum_Many-Body_Theory-Note) |
-| ![Progress](https://progress-bar.xyz/4/?title=🤯%20&scale=5&suffix=X&progress_color=ffc23d&width=120) | [Advanced Quantum Mechanics](https://github.com/myhsia/Advanced_Quantum_Mechanics-Note) |
-| ![Progress](https://progress-bar.xyz/3/?title=😢%20&scale=5&suffix=X&progress_color=94d23d&width=120) | [Advanced Statistical Mechanics](https://github.com/myhsia/Advanced_Statistical_Mechanics-Note) |
+| ![Progress](https://progress-bar.xyz/4/?title=🤯%20&scale=5&suffix=X&progress_color=ffc23d&width=120) | [Adv. Quantum Mechanics](https://github.com/myhsia/Advanced_Quantum_Mechanics-Note) |
+| ![Progress](https://progress-bar.xyz/3/?title=😢%20&scale=5&suffix=X&progress_color=94d23d&width=120) | [Adv. Statistical Mechanics](https://github.com/myhsia/Advanced_Statistical_Mechanics-Note) |
 | ![Progress](https://progress-bar.xyz/3/?title=☹️&scale=5&suffix=X&progress_color=94d23d&width=120)    | Molecular Spectroscopy     |
 | ![Progress](https://progress-bar.xyz/2/?title=😋%20&scale=5&suffix=X&progress_color=0099ff&width=120) | [Condensed Matter Theory](https://github.com/myhsia/Condensed_Matter_Theory-Note) |
 
@@ -54,4 +54,4 @@ Using LaTeX3, I developed some packages
 ## 📪 Reach Me
 - [**MAIL** *xiamingyu@westlake.edu.cn*](mailto:xiamingyu@westlake.edu.cn) &nbsp; | &nbsp;
   [**IG** *@my.hsia*](https://instagram.com/my.hsia)
-- Travel to Harbin in Jan (About 250K 🥶) to meet me.
+- Travel to Harbin in Winter (~ 250K 🥶) to meet me.
