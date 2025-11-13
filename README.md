@@ -3,9 +3,9 @@
 <div align="center">
 
 <a href="https://github.com/myhsia">
-  <img align="center" alt="GitHub Overview" width = 400em src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myhsia&theme=transparent" />
+  <img align="center" alt="GitHub Overview" width = 500em src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myhsia&theme=transparent" />
 <a href="https://github.com/myhsia">
-  <img align="center" alt="Top Langs" width = 350em src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=myhsia&layout=compact" />
+  <img align="center" alt="Top Langs" width = 240em src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=myhsia&layout=compact" />
 </a>
 
 </div>
