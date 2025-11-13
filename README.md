@@ -31,16 +31,23 @@
 
 ## A Part-Time LaTeX Programmer
 
-Using LaTeX3, I developed a lot of packages
+Using LaTeX3, I developed some packages
 
-- [whatsnote](https://github.com/myhsia/whatsnote): LaTeX class provides an elegant layout and powerful tools for taking notes in
-science, engineering, etc.
+- [char2path](https://github.com/zongpingding/char2path):
+  [Cooperate with [@Eureka](https://github.com/zongpingding)]
+  A LaTeX package that converts characters into TikZ paths.
 
-- [litetable](https://github.com/myhsia/litetable): LaTeX package: A Colorful Timetable.
+- [whatsnote](https://github.com/myhsia/whatsnote):
+  LaTeX class provides an elegant layout and powerful tools for taking notes in science, engineering, etc.
 
-- [notetbamer](https://github.com/myhsia/notebeamer): LaTeX package provides an easy way to print slides on note pages quickly.
+- [litetable](https://github.com/myhsia/litetable):
+  LaTeX package: A Colorful Timetable.
 
-- [westlakethesis](https://github.com/myhsia/westlakethesis): Thesis LaTeX Class for Westlake University (Conducting).
+- [notetbamer](https://github.com/myhsia/notebeamer):
+  LaTeX package provides an easy way to print slides on note pages quickly.
+
+- [westlakethesis](https://github.com/myhsia/westlakethesis):
+  Thesis LaTeX Class for Westlake University (Conducting).
 
 ---
 
