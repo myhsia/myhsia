@@ -17,11 +17,11 @@
 
 | Difficulty | Course |
 |-------|--------|
-| ![Progress](https://progress-bar.xyz/5/?title=🥵%20&scale=5&suffix=X&progress_color=fb3838&width=115) | [Quantum Many-Body Theory](https://github.com/myhsia/Quantum_Many-Body_Theory-Note)         |
-| ![Progress](https://progress-bar.xyz/4/?title=🤯%20&scale=5&suffix=X&progress_color=ffc23d&width=115) | [Adv. Quantum Mechanics](https://github.com/myhsia/Advanced_Quantum_Mechanics-Note)         |
-| ![Progress](https://progress-bar.xyz/3/?title=😢%20&scale=5&suffix=X&progress_color=94d23d&width=115) | [Adv. Statistical Mechanics](https://github.com/myhsia/Advanced_Statistical_Mechanics-Note) |
-| ![Progress](https://progress-bar.xyz/3/?title=☹️&scale=5&suffix=X&progress_color=94d23d&width=115)    | Molecular Spectroscopy                                                                      |
-| ![Progress](https://progress-bar.xyz/2/?title=😋%20&scale=5&suffix=X&progress_color=0099ff&width=115) | [Condensed Matter Theory](https://github.com/myhsia/Condensed_Matter_Theory-Note)           |
+| ![Progress](https://progress-bar.xyz/5/?title=🥵%20&scale=5&suffix=X&progress_color=fb3838&width=105) | [Quantum Many-Body Theory](https://github.com/myhsia/Quantum_Many-Body_Theory-Note)         |
+| ![Progress](https://progress-bar.xyz/4/?title=🤯%20&scale=5&suffix=X&progress_color=ffc23d&width=105) | [Adv. Quantum Mechanics](https://github.com/myhsia/Advanced_Quantum_Mechanics-Note)         |
+| ![Progress](https://progress-bar.xyz/3/?title=😢%20&scale=5&suffix=X&progress_color=94d23d&width=105) | [Adv. Statistical Mechanics](https://github.com/myhsia/Advanced_Statistical_Mechanics-Note) |
+| ![Progress](https://progress-bar.xyz/3/?title=☹️&scale=5&suffix=X&progress_color=94d23d&width=105)    | Molecular Spectroscopy                                                                      |
+| ![Progress](https://progress-bar.xyz/2/?title=😋%20&scale=5&suffix=X&progress_color=0099ff&width=105) | [Condensed Matter Theory](https://github.com/myhsia/Condensed_Matter_Theory-Note)           |
 </div>
 
 - Currently, I'm researching MKCT (Memory Kernel Coupling Theory)
