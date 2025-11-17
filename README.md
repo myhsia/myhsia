@@ -12,7 +12,7 @@
 ## Ph.D. in Physics, Westlake University
 
 - I am in the [Laboratory of Theoretical and Computational Chemistry](https://dougroup.westlake.edu.cn/group.html) (which sounds like *chemistry*, but is more *physics*), and one can find me here.
-- I am maintaining the Ph.D. course notes taken at Westlake University; The $\mathrm{\LaTeX}$ sources of the notes are included in the following repositories
+- I am maintaining the Ph.D. course notes taken at Westlake University; The LaTeX sources of the notes are included in the following repositories
 <div align="center">
 
 | Difficulty | Course | Last Update |
@@ -26,21 +26,21 @@
 
 - Currently, I'm researching MKCT (Memory Kernel Coupling Theory)
 
-## A Part-Time $\mathrm{\LaTeX}$ Programmer
+## A Part-Time LaTeX Programmer
 
-Using $\mathrm{\LaTeX3}$, I developed some packages
+Using \LaTeX3, I developed some packages
 
 - [char2path](https://github.com/zongpingding/char2path)
   (Cooperate with [@Eureka](https://github.com/zongpingding)):
-  A $\mathrm{\LaTeX}$ package that converts characters into Ti*k*Z paths.
+  A LaTeX package that converts characters into Ti*k*Z paths.
 - [whatsnote](https://github.com/myhsia/whatsnote):
-  $\mathrm{\LaTeX}$ class provides an elegant layout and powerful tools for taking notes in science, engineering, etc.
+  LaTeX class provides an elegant layout and powerful tools for taking notes in science, engineering, etc.
 - [litetable](https://github.com/myhsia/litetable):
-  $\mathrm{\LaTeX}$ package: A Colorful Timetable.
+  LaTeX package: A Colorful Timetable.
 - [notetbamer](https://github.com/myhsia/notebeamer):
-  The $\mathrm{\LaTeX}$ package offers a convenient way to print slides on note pages quickly.
+  The LaTeX package offers a convenient way to print slides on note pages quickly.
 - [westlakethesis](https://github.com/myhsia/westlakethesis):
-  Thesis $\mathrm{\LaTeX}$ Class for Westlake University (Conducting).
+  Thesis LaTeX Class for Westlake University (Conducting).
 
 ---
 
