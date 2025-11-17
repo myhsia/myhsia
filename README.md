@@ -30,9 +30,9 @@
 
 Using LaTeX3, I developed some packages
 
-- [char2path](https://github.com/zongpingding/char2path):
-  [Cooperate with [@Eureka](https://github.com/zongpingding)]
-  A LaTeX package that converts characters into TikZ paths.
+- [char2path](https://github.com/zongpingding/char2path)
+  (Cooperate with [@Eureka](https://github.com/zongpingding)):
+  A LaTeX package that converts characters into Ti*k*Z paths.
 - [whatsnote](https://github.com/myhsia/whatsnote):
   LaTeX class provides an elegant layout and powerful tools for taking notes in science, engineering, etc.
 - [litetable](https://github.com/myhsia/litetable):
