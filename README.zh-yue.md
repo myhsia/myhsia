@@ -25,11 +25,11 @@
 
 | 難度 | 課程 | 最新更新 |
 |------|------|----------|
-| ![Progress](https://progress-bar.xyz/5/?title=🥵%20&scale=5&suffix=X&progress_color=fb3838&width=90) | [多體理论](https://github.com/myhsia/Quantum_Many-Body_Theory-Note)  | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Quantum_Many-Body_Theory-Note)](https://github.com/myhsia/Quantum_Many-Body_Theory-Note/commits)
-| ![Progress](https://progress-bar.xyz/4/?title=🤯%20&scale=5&suffix=X&progress_color=ffc23d&width=90) | [量子力學](https://github.com/myhsia/Quantum_Mechanics-Note)         | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Quantum_Mechanics-Note)](https://github.com/myhsia/Quantum_Mechanics-Note/commits)
-| ![Progress](https://progress-bar.xyz/3/?title=😢%20&scale=5&suffix=X&progress_color=94d23d&width=90) | [統計力学](https://github.com/myhsia/Statistical_Mechanics-Note)     | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Statistical_Mechanics-Note)](https://github.com/myhsia/Statistical_Mechanics-Note/commits)
-| ![Progress](https://progress-bar.xyz/3/?title=☹️&scale=5&suffix=X&progress_color=94d23d&width=90)    | 分子光譜學                                                           | 未发布
-| ![Progress](https://progress-bar.xyz/2/?title=🤓%20&scale=5&suffix=X&progress_color=0099ff&width=90) | [凝聚態理論](https://github.com/myhsia/Condensed_Matter_Theory-Note) | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Condensed_Matter_Theory-Note)](https://github.com/myhsia/Condensed_Matter_Theory-Note/commits)
+| ![Progress](https://progress-bar.xyz/5/?title=🥵%20&scale=5&suffix=X&progress_color=fb3838&width=80) | [多體理论](https://github.com/myhsia/Quantum_Many-Body_Theory-Note)  | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Quantum_Many-Body_Theory-Note)](https://github.com/myhsia/Quantum_Many-Body_Theory-Note/commits)
+| ![Progress](https://progress-bar.xyz/4/?title=🤯%20&scale=5&suffix=X&progress_color=ffc23d&width=80) | [量子力學](https://github.com/myhsia/Quantum_Mechanics-Note)         | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Quantum_Mechanics-Note)](https://github.com/myhsia/Quantum_Mechanics-Note/commits)
+| ![Progress](https://progress-bar.xyz/3/?title=😢%20&scale=5&suffix=X&progress_color=94d23d&width=80) | [統計力学](https://github.com/myhsia/Statistical_Mechanics-Note)     | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Statistical_Mechanics-Note)](https://github.com/myhsia/Statistical_Mechanics-Note/commits)
+| ![Progress](https://progress-bar.xyz/3/?title=☹️&scale=5&suffix=X&progress_color=94d23d&width=80)    | 分子光譜學                                                           | 未发布
+| ![Progress](https://progress-bar.xyz/2/?title=🤓%20&scale=5&suffix=X&progress_color=0099ff&width=80) | [凝聚態理論](https://github.com/myhsia/Condensed_Matter_Theory-Note) | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Condensed_Matter_Theory-Note)](https://github.com/myhsia/Condensed_Matter_Theory-Note/commits)
 
 </div>
 
