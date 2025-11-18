@@ -1,5 +1,5 @@
-[![YUE](https://img.shields.io/badge/lang-yue-teal.svg)](https://github.com/myhsia/myhsia/blob/main/README.zh-yue.md)
-[![EN](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/myhsia/myhsia/blob/main/README.md)
+[粵語](https://github.com/myhsia/myhsia/blob/main/README.zh-yue.md) &nbsp;
+[English](https://github.com/myhsia/myhsia/blob/main/README.md)
 
 # 你好呀！
 
