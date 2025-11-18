@@ -1,5 +1,8 @@
-[粵語](https://github.com/myhsia/myhsia/blob/main/README.zh-yue.md) &nbsp;
-[English](https://github.com/myhsia/myhsia/blob/main/README.md)
+<p>
+  <a href="./README.zh-yue.md">粵語</a> |
+  <a href="./README.md">English</a>     |
+  中文
+</p>
 
 # 你好呀！
 
