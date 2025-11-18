@@ -1,5 +1,5 @@
-[![EN](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/myhsia/README.md)
-[![CN](https://img.shields.io/badge/lang-cn-red.svg)](https://github.com/myhsia/README.zh-cn.md)
+[![EN](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/myhsia/myhsia/blob/main/README.md)
+[![CN](https://img.shields.io/badge/lang-cn-red.svg)](https://github.com/myhsia/myhsia/blob/main/README.zh-cn.md)
 
 # 你好，咁多位！
 

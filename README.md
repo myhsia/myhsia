@@ -1,5 +1,5 @@
-[![YUE](https://img.shields.io/badge/lang-yue-teal.svg)](https://github.com/myhsia/README.zh-yue.md)
-[![CN](https://img.shields.io/badge/lang-cn-red.svg)](https://github.com/myhsia/README.zh-cn.md)
+[![YUE](https://img.shields.io/badge/lang-yue-teal.svg)](https://github.com/myhsia/myhsia/blob/main/README.zh-yue.md)
+[![CN](https://img.shields.io/badge/lang-cn-red.svg)](https://github.com/myhsia/myhsia/blob/main/README.zh-cn.md)
 
 # Hi there!
 
