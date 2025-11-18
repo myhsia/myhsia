@@ -1,3 +1,6 @@
+[![YUE](https://img.shields.io/badge/lang-yue-teal.svg)](https://github.com/myhsia/myhsia/README.zh-yue.md)
+[![CN](https://img.shields.io/badge/lang-cn-red.svg)](https://github.com/myhsia/myhsia/README.zh-cn.md)
+
 # Hi there!
 
 <div align="center">
@@ -49,4 +52,4 @@ Using LaTeX3, I developed some packages
 
 - [**MAIL** *xiamingyu@westlake.edu.cn*](mailto:xiamingyu@westlake.edu.cn) &nbsp; | &nbsp;
   [**INS** *@my.hsia*](https://instagram.com/my.hsia)
-- Travel to Harbin in Winter (~ 250K 🥶) to meet me 😋.
+- Travel to Harbin in Winter (~ 250K 🥶) to meet me 😋

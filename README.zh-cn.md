@@ -1,3 +1,6 @@
+[![YUE](https://img.shields.io/badge/lang-yue-teal.svg)](https://github.com/myhsia/myhsia/README.zh-yue.md)
+[![EN](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/myhsia/myhsia/README.md)
+
 # 你好呀！
 
 <div align="center">
@@ -49,4 +52,4 @@
 
 - [**MAIL** *xiamingyu@westlake.edu.cn*](mailto:xiamingyu@westlake.edu.cn) &nbsp; | &nbsp;
   [**INS** *@my.hsia*](https://instagram.com/my.hsia)
-- 欢迎冬天来哈尔滨（~ 250K 🥶）旅行，顺便和我面基 😋.
+- 欢迎冬天来哈尔滨（~ 250K 🥶）旅行，顺便和我面基 😋
