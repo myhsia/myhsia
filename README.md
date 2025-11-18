@@ -1,7 +1,7 @@
 <p>
   <a href="./README.zh-yue.md">粵語</a> |
   English                               |
-  <a href="./README.zh-cm.md">中文</a>
+  <a href="./README.zh-cn.md">中文</a>
 </p>
 
 # Hi there!
