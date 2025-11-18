@@ -1,4 +1,4 @@
-# Hi there! ｜ 你好，咁多位！
+# Hi there!
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 <div align="center">
 
 | Difficulty | Course |
-|-------|--------|
+|------------|--------|
 | ![Progress](https://progress-bar.xyz/5/?title=🥵%20&scale=5&suffix=X&progress_color=fb3838&width=120) | [Quantum Many-Body Theory](https://github.com/myhsia/Quantum_Many-Body_Theory-Note) |
 | ![Progress](https://progress-bar.xyz/4/?title=🤯%20&scale=5&suffix=X&progress_color=ffc23d&width=120) | [Adv. Quantum Mechanics](https://github.com/myhsia/Advanced_Quantum_Mechanics-Note) |
 | ![Progress](https://progress-bar.xyz/3/?title=😢%20&scale=5&suffix=X&progress_color=94d23d&width=120) | [Adv. Statistical Mechanics](https://github.com/myhsia/Advanced_Statistical_Mechanics-Note) |
@@ -43,15 +43,12 @@ Using LaTeX3, I developed some packages
 - [litetable](https://github.com/myhsia/litetable):
   LaTeX package: A Colorful Timetable.
 
-- [notetbamer](https://github.com/myhsia/notebeamer):
+- [notebeamer](https://github.com/myhsia/notebeamer):
   LaTeX package provides an easy way to print slides on note pages quickly.
-
-- [westlakethesis](https://github.com/myhsia/westlakethesis):
-  Thesis LaTeX Class for Westlake University (Conducting).
 
 ---
 
 ## 📪 Reach Me
 - [**MAIL** *xiamingyu@westlake.edu.cn*](mailto:xiamingyu@westlake.edu.cn) &nbsp; | &nbsp;
-  [**IG** *@my.hsia*](https://instagram.com/my.hsia)
-- Travel to Harbin in Winter (~ 250K 🥶) to meet me.
+  [**INS** *@my.hsia*](https://instagram.com/my.hsia)
+- Travel to Harbin in Winter (~ 250K 🥶) to meet me 😋.
