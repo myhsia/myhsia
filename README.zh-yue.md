@@ -33,7 +33,7 @@
 
 </div>
 
-- 我而今研究緊 MKCT（Memory Kernel Coupling Theory，記憶核耦合理論）
+- 我而今研究緊 [MKCT](https://github.com/myhsia/MKCT)（Memory Kernel Coupling Theory，記憶核耦合理論）
 
 ## LaTeX 開發者 (Part-Time)
 

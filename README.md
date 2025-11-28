@@ -33,7 +33,7 @@
 
 </div>
 
-- Currently, I'm researching MKCT (Memory Kernel Coupling Theory)
+- Currently, I'm researching [MKCT](https://github.com/myhsia/MKCT) (Memory Kernel Coupling Theory)
 
 ## A Part-Time LaTeX Programmer
 
