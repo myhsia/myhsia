@@ -47,7 +47,7 @@ Using LaTeX3, I developed some packages
   LaTeX class provides an elegant layout and powerful tools for taking notes in science, engineering, etc.
 - [litetable](https://github.com/myhsia/litetable):
   LaTeX package: A Colorful Timetable.
-- [notetbamer](https://github.com/myhsia/notebeamer):
+- [notebamer](https://github.com/myhsia/notebeamer):
   The LaTeX package offers a convenient way to print slides on note pages quickly.
 
 ---
