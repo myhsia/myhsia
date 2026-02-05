@@ -18,23 +18,23 @@
 
 ## Ph.D. in Physics, Westlake University
 
-- I am in the [Laboratory of Theoretical and Computational Chemistry](https://dougroup.westlake.edu.cn/group.html) (which sounds like *chemistry*, but is more *physics*), and one can find me here.
+- I am in the [Laboratory of Theoretical and Computational Chemistry](https://dougroup.westlake.edu.cn/group.html), and one can find me here.
 - I am maintaining the Ph.D. course notes taken at Westlake University; The LaTeX sources of the notes are included in the following repositories
 
 <div align="center">
 
 | Difficulty | Course | Last Update |
 |------------|--------|-------------|
-| ![Progress](https://progress-bar.xyz/5/?title=🥵%20&scale=5&suffix=X&progress_color=fb3838) | [Quantum Many-Body Theory](https://github.com/myhsia/Quantum_Many-Body_Theory-Note) | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Quantum_Many-Body_Theory-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Quantum_Many-Body_Theory-Note/commits)
-| ![Progress](https://progress-bar.xyz/4/?title=☹️&scale=5&suffix=X&progress_color=ffc23d)    | [Quantum Field Theory]()                                                            | Start from 2026-03-04
-| ![Progress](https://progress-bar.xyz/3/?title=🤯%20&scale=5&suffix=X&progress_color=94d23d) | [Adv. Quantum Mechanics](https://github.com/myhsia/Quantum_Mechanics-Note)          | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Quantum_Mechanics-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Quantum_Mechanics-Note/commits)
-| ![Progress](https://progress-bar.xyz/2/?title=😢%20&scale=5&suffix=X&progress_color=94d23d) | [Adv. Statistical Mechanics](https://github.com/myhsia/Statistical_Mechanics-Note)  | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Statistical_Mechanics-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Statistical_Mechanics-Note/commits)
-| ![Progress](https://progress-bar.xyz/2/?title=🤓%20&scale=5&suffix=X&progress_color=94d23d) | [Condensed Matter Theory](https://github.com/myhsia/Condensed_Matter_Theory-Note)   | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Condensed_Matter_Theory-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Condensed_Matter_Theory-Note/commits)
-| ![Progress](https://progress-bar.xyz/1/?title=☹️&scale=5&suffix=X&progress_color=0099ff)    | [Molecular Spectroscopy]()                                                          | Start from 2026-03-05
+| ![Progress](https://progress-bar.xyz/5/?title=🥵%20&scale=5&suffix=X&progress_color=ea4335) | [Quantum Many-Body Theory](https://github.com/myhsia/Quantum_Many-Body_Theory-Note) | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Quantum_Many-Body_Theory-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Quantum_Many-Body_Theory-Note/commits)
+| ![Progress](https://progress-bar.xyz/4/?title=🤯%20&scale=5&suffix=X&progress_color=f3801d) | [Quantum Field Theory]()                                                            | Starts from 2026-03-04
+| ![Progress](https://progress-bar.xyz/3/?title=😢%20&scale=5&suffix=X&progress_color=fbbc05) | [Adv. Quantum Mechanics](https://github.com/myhsia/Quantum_Mechanics-Note)          | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Quantum_Mechanics-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Quantum_Mechanics-Note/commits)
+| ![Progress](https://progress-bar.xyz/2/?title=😊&scale=5&suffix=X&progress_color=34a853)    | [Adv. Statistical Mechanics](https://github.com/myhsia/Statistical_Mechanics-Note)  | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Statistical_Mechanics-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Statistical_Mechanics-Note/commits)
+| ![Progress](https://progress-bar.xyz/2/?title=😊&scale=5&suffix=X&progress_color=34a853)    | [Condensed Matter Theory](https://github.com/myhsia/Condensed_Matter_Theory-Note)   | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Condensed_Matter_Theory-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Condensed_Matter_Theory-Note/commits)
+| ![Progress](https://progress-bar.xyz/1/?title=🤓%20&scale=5&suffix=X&progress_color=4285f4) | [Molecular Spectroscopy]()                                                          | Starts from 2026-03-05
 
 </div>
 
-- Currently, I'm researching [MKCT](https://github.com/myhsia/MKCT) (Memory Kernel Coupling Theory)
+- Currently, I'm developing a new method for Correlation Function using [MKCT](https://github.com/myhsia/MKCT) (Memory Kernel Coupling Theory)
 
 ## A Part-Time LaTeX Programmer
 

@@ -18,7 +18,7 @@
 
 ## 西湖大学 物理学 PhD 在读
 
-- 我在 [Laboratory of Theoretical and Computational Chemistry](https://dougroup.westlake.edu.cn/group.html)（听起来像*化学*，其实是*物理*），你可以在这里找到我.
+- 我在 [Laboratory of Theoretical and Computational Chemistry](https://dougroup.westlake.edu.cn/group.html), 你可以在这里找到我.
 - 我开源了部分西湖大学博士课程的笔记，笔记的 LaTeX 源代码放在以下几个仓库中
 
 <div align="center">
