@@ -26,10 +26,11 @@
 | 难度 | 课程 | 最新更新 |
 |------|------|----------|
 | ![Progress](https://progress-bar.xyz/5/?title=🥵%20&scale=5&suffix=X&progress_color=fb3838) | [多体理论](https://github.com/myhsia/Quantum_Many-Body_Theory-Note)  | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Quantum_Many-Body_Theory-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Quantum_Many-Body_Theory-Note)
-| ![Progress](https://progress-bar.xyz/4/?title=🤯%20&scale=5&suffix=X&progress_color=ffc23d) | [量子力学](https://github.com/myhsia/Quantum_Mechanics-Note)         | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Quantum_Mechanics-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Quantum_Mechanics-Note/commits)
-| ![Progress](https://progress-bar.xyz/3/?title=😢%20&scale=5&suffix=X&progress_color=94d23d) | [统计力学](https://github.com/myhsia/Statistical_Mechanics-Note)     | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Statistical_Mechanics-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Statistical_Mechanics-Note/commits)
-| ![Progress](https://progress-bar.xyz/3/?title=☹️&scale=5&suffix=X&progress_color=94d23d)    | 分子光谱学                                                           | 未发布
+| ![Progress](https://progress-bar.xyz/4/?title=🤯%20&scale=5&suffix=X&progress_color=ffc23d) | [量子场论]()                                                         | 2026-03-04 开始
+| ![Progress](https://progress-bar.xyz/3/?title=🤯%20&scale=5&suffix=X&progress_color=94d23d) | [量子力学](https://github.com/myhsia/Quantum_Mechanics-Note)         | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Quantum_Mechanics-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Quantum_Mechanics-Note/commits)
+| ![Progress](https://progress-bar.xyz/2/?title=😢%20&scale=5&suffix=X&progress_color=0099ff) | [统计力学](https://github.com/myhsia/Statistical_Mechanics-Note)     | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Statistical_Mechanics-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Statistical_Mechanics-Note/commits)
 | ![Progress](https://progress-bar.xyz/2/?title=🤓%20&scale=5&suffix=X&progress_color=0099ff) | [凝聚态理论](https://github.com/myhsia/Condensed_Matter_Theory-Note) | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Condensed_Matter_Theory-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Condensed_Matter_Theory-Note)
+| ![Progress](https://progress-bar.xyz/1/?title=☹️&scale=5&suffix=X&progress_color=94d23d)    | [分子光谱学]()                                                       | 2026-03-05 开始
 
 </div>
 
