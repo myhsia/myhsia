@@ -28,8 +28,8 @@
 | ![Progress](https://progress-bar.xyz/5/?title=🥵%20&scale=5&suffix=X&progress_color=ea4335) | [多體理论](https://github.com/myhsia/Quantum_Many-Body_Theory-Note) | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Quantum_Many-Body_Theory-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Quantum_Many-Body_Theory-Note/commits)
 | ![Progress](https://progress-bar.xyz/4/?title=🤯%20&scale=5&suffix=X&progress_color=f3801d) | [量子場論]()                                                        | 2026-03-04 开始
 | ![Progress](https://progress-bar.xyz/3/?title=😢%20&scale=5&suffix=X&progress_color=fbbc05) | [量子力學](https://github.com/myhsia/Quantum_Mechanics-Note)        | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Quantum_Mechanics-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Quantum_Mechanics-Note/commits)
-| ![Progress](https://progress-bar.xyz/2/?title=😊%20&scale=5&suffix=X&progress_color=34a853)    | [统統計力学](https://github.com/myhsia/Statistical_Mechanics-Note)  | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Statistical_Mechanics-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Statistical_Mechanics-Note/commits)
-| ![Progress](https://progress-bar.xyz/2/?title=😊%20&scale=5&suffix=X&progress_color=34a853)    | [凝聚態理論](https://github.com/myhsia/Condensed_Matter_Theory-Note)| [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Condensed_Matter_Theory-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Condensed_Matter_Theory-Note/commits)
+| ![Progress](https://progress-bar.xyz/2/?title=😊%20&scale=5&suffix=X&progress_color=34a853) | [统統計力学](https://github.com/myhsia/Statistical_Mechanics-Note)  | [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Statistical_Mechanics-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Statistical_Mechanics-Note/commits)
+| ![Progress](https://progress-bar.xyz/2/?title=😊%20&scale=5&suffix=X&progress_color=34a853) | [凝聚態理論](https://github.com/myhsia/Condensed_Matter_Theory-Note)| [![GitHub Last Commit](https://img.shields.io/github/last-commit/myhsia/Condensed_Matter_Theory-Note?label=%F0%9F%86%95)](https://github.com/myhsia/Condensed_Matter_Theory-Note/commits)
 | ![Progress](https://progress-bar.xyz/1/?title=🤓%20&scale=5&suffix=X&progress_color=4285f4) | [分子光譜學]()                                                      | 2026-03-05 开始
 
 </div>
@@ -43,6 +43,8 @@
 - [char2path](https://github.com/zongpingding/char2path):
   [同 [@Eureka](https://github.com/zongpingding) 合作]
   一個可以將字元轉換成 Ti*k*Z 路徑嘅 LaTeX package.
+- [physics3](https://github.com/myhsia/physics3):
+  快速排版 LaTeX 數學/物理公式嘅 tool.
 - [whatsnote](https://github.com/myhsia/whatsnote):
   提供優雅版面同強大工具, 用嚟撰寫科學、工程等領域筆記嘅 LaTeX 文檔類.
 - [litetable](https://github.com/myhsia/litetable):

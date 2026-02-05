@@ -43,6 +43,8 @@
 - [char2path](https://github.com/zongpingding/char2path)：  
   [与 [@Eureka](https://github.com/zongpingding) 合作]  
   一个可以将字符转换为 Ti*k*Z 路径的 LaTeX 宏包.
+- [physics3](https://github.com/myhsia/physics3):
+  快速排版 LaTeX 数学/物理公式的工具.
 - [whatsnote](https://github.com/myhsia/whatsnote)：  
   提供优雅的版式和强大的工具，用于撰写科学、工程等领域笔记的 LaTeX 文档类.
 - [litetable](https://github.com/myhsia/litetable)：  
