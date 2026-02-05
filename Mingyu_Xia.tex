@@ -1,11 +1,12 @@
 \documentclass[svgnames, legalpaper]{article}
 
 \usepackage[explicit]{titlesec}
-\usepackage[hidelinks,pdfauthor={Mingyu Xia},pdftitle={Xia's Curriculum Vitae},pdfsubject={PhD Application}]{hyperref}
-\usepackage{booktabs,tabularx,geometry,enumitem,fancyhdr,twemojis,xhfill,soul}
+\usepackage[hidelinks, colorlinks, pdftitle = Xia's Curriculum Vitae,
+            pdfauthor = Mingyu Xia, pdfsubject = PostDoc Application]{hyperref}
+\hypersetup{urlcolor = teal}
+\usepackage{tabularx, geometry, enumitem, fancyhdr, twemojis, xhfill,soul}
 \usepackage[versionfa = 7, hook]{fontawesomescaled}
 \geometry{vmargin = .8in, hmargin = .6in}
-\def\mailto#1{\texttt{\href{mailto:#1}{#1}}}
 
 \usepackage[osf, mono = false]{libertine}
 \usepackage[scale = .875]{sourcecodepro}
@@ -40,11 +41,18 @@
 \makeatother
 \linespread{1.2}
 
+\definecolor{gmail}   {HTML}{EA4335}
+\definecolor{whatsapp}{HTML}{128C7E}
+\definecolor{linkedin}{HTML}{0A66C2}
 \title{Mingyu Xia}
 \author{%
-  % \faIcon{phone}         \href{tel:+8618267131843}{(86)~182\,6713\,1843}\qquad
-  \faIcon{envelope-open} \mailto{xiamingyu@westlake.edu.cn}\qquad
-  \faIcon{whatsapp}      \href{https://wa.me/85246540513}{(852)~4654\,0513}
+  \href{mailto:xiamingyu@westlake.edu.cn}
+    {\textcolor{gmail}{\faIcon{envelope-open} \ttfamily
+      xiamingyu@westlake.edu.cn}}\qquad
+  \href{https://www.linkedin.com/in/myhsia}
+    {\textcolor{linkedin}{\faIcon{linkedin} \ttfamily myhsia}}\qquad
+  \href{https://wa.me/85246540513}
+    {\textcolor{whatsapp}{\faIcon{whatsapp} (852)~4654\,0513}}
 }
 \date{2025-08-22}
 
@@ -56,25 +64,31 @@
 
 \begin{itemize}
   \item \textbf{Mesoscopic Transport:} Applications of the \textbf{\em Nonequilibrium Green Function} theory to two-dimensional materials.
-  \item \textbf{MKCT:} Memory Kernel Coupling Theory.
+  \item \textbf{Memory Kernel Coupling Theory} (MKCT):
+  Correlation Function Calculation.
 \end{itemize}
 
 \section*{\texttwemoji{1f393}~Education}
 
 \begin{tabularx}{\linewidth}{LR}
-  \textbf{Westlake University}, Physics Department,
-  \href{https://dougroup.westlake.edu.cn/}
-    {\emph{Laboratory of Theoretical and Computational Chemistry}} &
-    Zhejiang, China\\[1ex]
+  \href{https://en.westlake.edu.cn}{\textbf{Westlake University}},
+  Physics Department & Zhejiang, China\\[1ex]
   \emph{Ph.D. in Science} & 09/2025 -- \textcolor{gray!50}{\underline{06/2030}}
 \end{tabularx}
 \begin{itemize}
+  \item \textbf{Supervised by}
+  \href{https://scholar.google.com/citations?user=TBFw_3AAAAAJ}%
+    {\faIcon{google-scholar} \textsc{Wenjie Dou}}
+    (\href{https://dougroup.westlake.edu.cn}
+      {\emph{Laboratory of Theoretical and Computational Chemistry}})
   \item \textbf{Thesis:} \textcolor{gray!50}{\ul{\emph{(Expecting)}}}
   \item \textbf{Awards:} \textcolor{gray!50}{\emph{(Expecting)}} \hfill
   \textcolor{gray!50}{(Expecting)}
 \end{itemize}
 \begin{tabularx}{\linewidth}{LR}
-  \textbf{Hangzhou Dianzi University}, Opto-Electronics Information Science and Engineering & Zhejiang, China\\[1ex]
+  \href{https://en.hdu.edu.cn}{\textbf{Hangzhou Dianzi University}},
+    Opto-Electronics Information Science and Engineering &
+    Zhejiang, China\\[1ex]
   \emph{Bachelor of Engineering} & 09/2021 -- 06/2025
 \end{tabularx}
 \begin{itemize}
