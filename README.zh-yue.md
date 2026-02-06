@@ -38,7 +38,7 @@
 
 ## LaTeX 開發者 (Part-Time)
 
-我使用 LaTeX3 開發咗幾個 Package
+我使用 LaTeX3 開發咗幾個 package
 
 - [char2path](https://github.com/zongpingding/char2path):
   [同 [@Eureka](https://github.com/zongpingding) 合作]
