@@ -4,7 +4,7 @@
 \usepackage[hidelinks, colorlinks, pdftitle = Xia's Curriculum Vitae,
             pdfauthor = Mingyu Xia, pdfsubject = PostDoc Application]{hyperref}
 \hypersetup{urlcolor = teal}
-\usepackage{tabularx, geometry, enumitem, fancyhdr, twemojis, xhfill,soul}
+\usepackage{tabularx, geometry, enumitem, fancyhdr, twemojis, xhfill, soul}
 \usepackage[versionfa = 7, hook]{fontawesomescaled}
 \geometry{vmargin = .8in, hmargin = .6in}
 
@@ -24,18 +24,28 @@
 }
 \newcolumntype{L}{p{.8\linewidth}@{}}
 \newcolumntype{R}{>{\raggedleft\arraybackslash}p{.188\linewidth}@{}}
+\newdimen\ttwd
+\protected\def\updatettwd{%
+  \setbox\@tempboxa\hbox{\normalsize\ttfamily x}
+  \ttwd=\wd\@tempboxa
+}
+\updatettwd
 
 \renewcommand*\maketitle{%
   \begingroup
-  \setlength{\topsep}{0pt}\par\kern\topsep\centering
-  \huge
-  \textbf{\@title}\par
-  \vspace {.75\baselineskip}
-  \normalsize
-  \@author
-  \par\kern\topsep
+  \noindent \kern\topsep
+  \begin{minipage}{.64\linewidth}
+    \huge
+    \textbf{\@title}
+    \par \vspace {.25\baselineskip}
+    \large \textsf{\@thanks}
+  \end{minipage}
+  \hfill
+  \begin{minipage}{.32\linewidth}
+    \normalsize
+    \@author
+  \end{minipage}%
   \endgroup
-  \vspace \baselineskip
 }
 \pdfstringdefDisableCommands{\def\texttwemoji#1{<#1>}}
 \makeatother
@@ -44,17 +54,30 @@
 \definecolor{gmail}   {HTML}{EA4335}
 \definecolor{whatsapp}{HTML}{128C7E}
 \definecolor{linkedin}{HTML}{0A66C2}
+\definecolor{map}     {HTML}{FACC41}
 \title{Mingyu Xia}
 \author{%
-  \href{mailto:xiamingyu@westlake.edu.cn}
-    {\textcolor{gmail}{\faIcon{envelope-open} \ttfamily
-      xiamingyu@westlake.edu.cn}}\qquad
-  \href{https://www.linkedin.com/in/myhsia}
-    {\textcolor{linkedin}{\faIcon{linkedin} \ttfamily myhsia}}\qquad
-  \href{https://wa.me/85246540513}
-    {\textcolor{whatsapp}{\faIcon{whatsapp} (852)~4654\,0513}}
+  \begin{tabular}{l@{\qquad\enspace}r}
+    \multicolumn{2}{l}{%
+      \href{mailto:xiamingyu@westlake.edu.cn}
+        {\textcolor{gmail}{\makebox[1em]{\faIcon{envelope-open}}
+        \ttfamily xiamingyu@westlake.edu.cn}}}\\
+    \href{https://wa.me/85246540513}
+      {\textcolor{whatsapp}{\makebox[1em]{\faIcon{whatsapp}}
+      (852)~4654\,0513}} &
+    \href{https://www.linkedin.com/in/myhsia}
+      {\textcolor{linkedin}{\makebox[1em]{\faIcon{linkedin}}
+      \ttfamily myhsia}}\\
+    \multicolumn{2}{l}{%
+      \href{https://maps.apple.com/place?place-id=H2710I3F926867E7D82}
+        {\textcolor{map}{\makebox[1em]{\faIcon{map-pin}}
+        \makebox[25\ttwd][s]{\sffamily Hangzhou, Zhejiang, P.R. China}}}}
+  \end{tabular}%
 }
-\date{2025-08-22}
+\date{2026-02-16}
+\makeatletter
+\def \@thanks {PhD in Physics at Westlake University}
+\makeatother
 
 \begin{document}
 
@@ -64,8 +87,8 @@
 
 \begin{itemize}
   \item \textbf{Mesoscopic Transport:} Applications of the \textbf{\em Nonequilibrium Green Function} theory to two-dimensional materials.
-  \item \textbf{Memory Kernel Coupling Theory} (MKCT):
-  Correlation Function Calculation.
+  \item \textbf{Open Quantum System}: Applying Memory Kernel Coupling Theory
+  (MKCT) to calculate correlation function.
 \end{itemize}
 
 \section*{\texttwemoji{1f393}~Education}
@@ -78,7 +101,7 @@
 \begin{itemize}
   \item \textbf{Supervised by}
   \href{https://scholar.google.com/citations?user=TBFw_3AAAAAJ}%
-    {\faIcon{google-scholar} \textsc{Wenjie Dou}}
+    {\faIcon{google-scholar} \textsc{\textbf{Wenjie Dou}}}
     (\href{https://dougroup.westlake.edu.cn}
       {\emph{Laboratory of Theoretical and Computational Chemistry}})
   \item \textbf{Thesis:} \textcolor{gray!50}{\ul{\emph{(Expecting)}}}
@@ -102,19 +125,19 @@
 \begin{thebibliography}{99}
 
 \bibitem{myhsiaprb2026}\textcolor{gray!50}{%
-M.~Xia,
+M.~Xia, W.~Dou,
 \newblock {\em (expecting)}, 2026.}
 \bibitem{myhsiaprb2027}\textcolor{gray!50}{%
-M.~Xia,
+M.~Xia, W.~Dou,
 \newblock {\em (expecting)}, 2026.}
 \bibitem{myhsiaprb2028}\textcolor{gray!50}{%
-M.~Xia,
+M.~Xia, W.~Dou,
 \newblock {\em (expecting)}, 2026.}
 \bibitem{myhsiaprb2029}\textcolor{gray!50}{%
-M.~Xia,
+M.~Xia, W.~Dou,
 \newblock {\em (expecting)}, 2026.}
 \bibitem{myhsiaprb2030}\textcolor{gray!50}{%
-M.~Xia,
+M.~Xia, W.~Dou,
 \newblock {\em (expecting)}, 2026.}
 
 \end{thebibliography}
@@ -155,7 +178,8 @@ M.~Xia,
 \begin{itemize}
   \item \textbf{IT Skills}:
   \textsf{MATLAB}, \textsf{Python}, \LaTeX, \textsf{Origin}
-  \item \textbf{Languages:} Native Chinese, Proficient English (IELTS: 6.0), Basic knowledge of Cantonese
+  \item \textbf{Languages:} Proficient English (IELTS: 6.0) ·
+  Semi-skilled Cantonese · Native Chinese
 \end{itemize}
 
 \end{document}
