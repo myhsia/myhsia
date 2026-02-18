@@ -23,12 +23,7 @@
 }
 \newcolumntype{L}{p{.8\linewidth}@{}}
 \newcolumntype{R}{>{\raggedleft\arraybackslash}p{.188\linewidth}@{}}
-\newdimen\ttwd
-\protected\def\updatettwd{%
-  \setbox\@tempboxa\hbox{\normalsize\ttfamily x}
-  \ttwd=\wd\@tempboxa
-}
-\updatettwd
+\newcommand \itemdate [2]{\noindent {\large\enspace} \textbf{#1}\hfill #2}
 
 \renewcommand*\maketitle{%
   \begingroup
@@ -49,16 +44,16 @@
 \makeatother
 \linespread{1.2}
 
-\definecolor{gmail}   {HTML}{EA4335}
-\definecolor{whatsapp}{HTML}{128C7E}
+\definecolor{email}   {HTML}{EA4335}
+\definecolor{whatsapp}{HTML}{25D366}
 \definecolor{linkedin}{HTML}{0A66C2}
-\definecolor{map}     {HTML}{BF9B30}
+\definecolor{google}  {HTML}{5D8EF6}
 \title{Mingyu Xia}
 \author{%
   \begin{tabular}{l@{\qquad\enspace}r}
     \multicolumn{2}{l}{%
       \href{mailto:xiamingyu@westlake.edu.cn}
-        {\textcolor{gmail}{\makebox[1em]{\faIcon{envelope-open}}
+        {\textcolor{email}{\makebox[1em]{\faIcon{envelope-open}}
         \ttfamily xiamingyu@westlake.edu.cn}}}\\
     \href{https://wa.me/85246540513}
       {\textcolor{whatsapp}{\makebox[1em]{\faIcon{whatsapp}}
@@ -66,16 +61,19 @@
     \href{https://www.linkedin.com/in/myhsia}
       {\textcolor{linkedin}{\makebox[1em]{\faIcon{linkedin}}
       \ttfamily myhsia}}\\
-    \multicolumn{2}{l}{%
-      \href{https://maps.apple.com/place?place-id=H2710I3F926867E7D82}
-        {\textcolor{map}{\makebox[1em]{\faIcon{map-pin}}
-        \makebox[25\ttwd][s]{\sffamily Hangzhou, Zhejiang, P.R. China}}}}
+    \href{https://scholar.google.com/}
+      {\textcolor{google}{\makebox[1em]{\faIcon{google-scholar}}
+      \sffamily Google Scholar}} &
+    \href{https://github.com/myhsia}
+      {\textcolor{black}{\makebox[1em]{\faIcon{github}}
+      \sffamily GitHub}}
   \end{tabular}%
 }
 \date{2026-02-16}
 \makeatletter
-\def \@thanks {PhD in Physics at
-  \href{https://en.westlake.edu.cn}{\textcolor{black}{Westlake University}}}
+\def \@thanks {PhD Student at\enspace
+  \href{https://maps.apple.com/place?place-id=H2710I3F926867E7D82}
+    {\faIcon{map-pin}~Westlake University}}
 \makeatother
 
 \begin{document}
@@ -85,7 +83,7 @@
 \section*{\makebox[1em][l]{\texttwemoji{1f9ea}}~Research Interests}
 
 \begin{itemize}
-  \item \textbf{Mesoscopic Transport:} Applications of the \textbf{\em Nonequilibrium Green Function} theory to two-dimensional materials.
+  \item \textbf{Mesoscopic Transport:} Applications of the \textbf{\em Nonequilibrium Green's Function} theory to two-dimensional materials.
   \item \textbf{Open Quantum System}: Applying Memory Kernel Coupling Theory
   (MKCT) to calculate correlation function.
 \end{itemize}
@@ -95,12 +93,12 @@
 \begin{tabularx}{\linewidth}{LR}
   \href{https://en.westlake.edu.cn}{\textbf{Westlake University}},
   Physics Department & Zhejiang, China\\[1ex]
-  \emph{Ph.D. in Science} & 09/2025 -- \textcolor{gray!50}{\underline{06/2030}}
+  \emph{Ph.D. in Science} & 08/2025 -- \textcolor{gray!50}{\underline{06/2030}}
 \end{tabularx}
 \begin{itemize}
   \item \textbf{Supervised by}
   \href{https://scholar.google.com/citations?user=TBFw_3AAAAAJ}%
-    {\faIcon{google-scholar} \textsc{\textbf{Wenjie Dou}}}
+    {\textcolor{google}{\faIcon{google-scholar} \textsc{Wenjie Dou}}}
     (\href{https://dougroup.westlake.edu.cn}
       {\emph{Laboratory of Theoretical and Computational Chemistry}})
   \item \textbf{Thesis:} \textcolor{gray!50}{\ul{\emph{(Expecting)}}}
@@ -125,27 +123,38 @@
 
 \bibitem{myhsiaprb2026}\textcolor{gray!50}{%
 M.~Xia, W.~Dou,
-\newblock {\em (expecting)}, 2026.}
+\newblock {\em (expecting)}, 2027.}
 \bibitem{myhsiaprb2027}\textcolor{gray!50}{%
 M.~Xia, W.~Dou,
-\newblock {\em (expecting)}, 2026.}
+\newblock {\em (expecting)}, 2028.}
 \bibitem{myhsiaprb2028}\textcolor{gray!50}{%
 M.~Xia, W.~Dou,
-\newblock {\em (expecting)}, 2026.}
+\newblock {\em (expecting)}, 2028.}
 \bibitem{myhsiaprb2029}\textcolor{gray!50}{%
 M.~Xia, W.~Dou,
-\newblock {\em (expecting)}, 2026.}
+\newblock {\em (expecting)}, 2029.}
 \bibitem{myhsiaprb2030}\textcolor{gray!50}{%
 M.~Xia, W.~Dou,
-\newblock {\em (expecting)}, 2026.}
+\newblock {\em (expecting)}, 2029.}
 
 \end{thebibliography}
 
-\section*{\makebox[1em][l]{\texttwemoji{269b}}~Research Experience}
+\section*{\makebox[1em][l]{\texttwemoji{269b}}~Experience}
 
-\begin{tabularx}{\linewidth}{LR}
-  \textbf{Undergraduate Research Summer Camp at CUHK(SZ)} & 07/2024 -- 08/2024
-\end{tabularx}
+\begingroup
+\color{gray!50}
+\itemdate{APS Global Physics Summit}{(Expecting)}
+\endgroup
+
+\itemdate{Westlake University Teaching Assistant}
+  {03/2026 -- 02/2027}
+\begin{itemize}\color{gray!50}
+  \item (Undergraduate Level)\hfill Spring 2026
+  \item (Doctor Level)\hfill Fall 2026
+\end{itemize}
+
+\itemdate{Undergraduate Research Summer Camp at CUHK(SZ)}
+  {07/2024 -- 08/2024}
 \begin{itemize}
   \item School of Science and Engineering, Physics Programme  \hfill Academic Exploration Award
   \item Topic: \ul{\emph{Transitions of Magnetic Skyrmion Tube, Toron,
@@ -154,21 +163,17 @@ M.~Xia, W.~Dou,
 
 \section*{\makebox[1em][l]{\texttwemoji{1fad2}}~Honors \& Awards}
 
-\begin{tabularx}{\linewidth}{LR}
-\textbf{Zhou Peiyuan Mechanics Competition for College Students} & 08/2023, 07/2025\\
-\end{tabularx}
+\itemdate{Zhou Peiyuan Mechanics Competition for College Students}
+  {08/2023, 07/2025}
 \begin{itemize}
   \item The National Third Prize \hfill Chinese Society of Theoretical and Applied Mechanics
 \end{itemize}
-\begin{tabularx}{\linewidth}{LR}
-\textbf{Mathematics Competition of Chinese} & 01/2023\\
-\end{tabularx}
+\itemdate{Mathematics Competition of Chinese}{01/2023}
 \begin{itemize}
   \item The National Second Prize \hfill Chinese Mathematical Society
 \end{itemize}
-\begin{tabularx}{\linewidth}{LR}
-\textbf{Undergraduates Physics Experiment and Department Technological Innovation Competition} & 09/2023\\
-\end{tabularx}
+\itemdate{Undergraduates Physics Experiment and Department
+  Technological Innovation Competition}{09/2023}
 \begin{itemize}
   \item The Provincial Third Prize \hfill Zhejiang Physical Society
 \end{itemize}
