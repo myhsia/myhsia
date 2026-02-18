@@ -1,8 +1,8 @@
 \documentclass[svgnames, legalpaper]{article}
 
 \usepackage[explicit]{titlesec}
-\usepackage[hidelinks, colorlinks, pdftitle = Xia's Curriculum Vitae,
-            pdfauthor = Mingyu Xia, pdfsubject = PostDoc Application]{hyperref}
+\usepackage[hidelinks,  pdfauthor  = Mingyu ~ Xia, pdftitle = Xia's ~ CV,
+            colorlinks, pdfsubject = PostDoc ~ Application]{hyperref}
 \hypersetup{urlcolor = teal}
 \usepackage{tabularx, geometry, enumitem, fancyhdr, twemojis, xhfill, soul}
 \usepackage[versionfa = 7, hook]{fontawesomescaled}
@@ -11,14 +11,13 @@
 \usepackage[osf, mono = false]{libertine}
 \usepackage[scale = .875]{sourcecodepro}
 \makeatletter
+\fancyhf{}
 \lfoot{\itshape \@title\_CV\quad
   \lower.5em\hbox{\includegraphics[height = 2em]{myhsia_seal.pdf}}}
-\cfoot{}
 \rfoot{\itshape Last Updated: \@date}
-\lhead{} \rhead{}
 \let\headrule\relax
 \pagestyle{fancy}
-\titleformat{\section}{\large}{}{}
+\titleformat \section {\large}{}{}
   {\color{DarkSlateGray}\scshape\bfseries#1
   \hspace{.5ex}\xrfill[.5ex]{1pt}[DarkSlateGray]
 }
@@ -33,7 +32,6 @@
 
 \renewcommand*\maketitle{%
   \begingroup
-  \noindent \kern\topsep
   \begin{minipage}{.64\linewidth}
     \huge
     \textbf{\@title}
@@ -54,7 +52,7 @@
 \definecolor{gmail}   {HTML}{EA4335}
 \definecolor{whatsapp}{HTML}{128C7E}
 \definecolor{linkedin}{HTML}{0A66C2}
-\definecolor{map}     {HTML}{FACC41}
+\definecolor{map}     {HTML}{BF9B30}
 \title{Mingyu Xia}
 \author{%
   \begin{tabular}{l@{\qquad\enspace}r}
@@ -76,14 +74,15 @@
 }
 \date{2026-02-16}
 \makeatletter
-\def \@thanks {PhD in Physics at Westlake University}
+\def \@thanks {PhD in Physics at
+  \href{https://en.westlake.edu.cn}{\textcolor{black}{Westlake University}}}
 \makeatother
 
 \begin{document}
 
 \maketitle
 
-\section*{\texttwemoji{1f9ea}~Research Interests}
+\section*{\makebox[1em][l]{\texttwemoji{1f9ea}}~Research Interests}
 
 \begin{itemize}
   \item \textbf{Mesoscopic Transport:} Applications of the \textbf{\em Nonequilibrium Green Function} theory to two-dimensional materials.
@@ -91,7 +90,7 @@
   (MKCT) to calculate correlation function.
 \end{itemize}
 
-\section*{\texttwemoji{1f393}~Education}
+\section*{\makebox[1em][l]{\texttwemoji{1f393}}~Education}
 
 \begin{tabularx}{\linewidth}{LR}
   \href{https://en.westlake.edu.cn}{\textbf{Westlake University}},
@@ -121,7 +120,7 @@
   GPA: 3.83
 \end{itemize}
 
-\renewcommand{\refname}{\texttwemoji{1fab6}~Publications}
+\renewcommand{\refname}{\makebox[1em][l]{\texttwemoji{1fab6}}~Publications}
 \begin{thebibliography}{99}
 
 \bibitem{myhsiaprb2026}\textcolor{gray!50}{%
@@ -142,17 +141,18 @@ M.~Xia, W.~Dou,
 
 \end{thebibliography}
 
-\section*{\texttwemoji{269b}~Research Experience}
+\section*{\makebox[1em][l]{\texttwemoji{269b}}~Research Experience}
 
 \begin{tabularx}{\linewidth}{LR}
   \textbf{Undergraduate Research Summer Camp at CUHK(SZ)} & 07/2024 -- 08/2024
 \end{tabularx}
 \begin{itemize}
   \item School of Science and Engineering, Physics Programme  \hfill Academic Exploration Award
-  \item Topic: \ul{\emph{Research on the Transitions of Magnetic Skyrmion Tube, Toron and Chiral Bobber Controlled by PMA and External Field in Chiral Magnets}}
+  \item Topic: \ul{\emph{Transitions of Magnetic Skyrmion Tube, Toron,
+  and Chiral Bobber Controlled by PMA and External Field in Chiral Magnets}}
 \end{itemize}
 
-\section*{\texttwemoji{1fad2}~Honors \& Awards}
+\section*{\makebox[1em][l]{\texttwemoji{1fad2}}~Honors \& Awards}
 
 \begin{tabularx}{\linewidth}{LR}
 \textbf{Zhou Peiyuan Mechanics Competition for College Students} & 08/2023, 07/2025\\
@@ -173,13 +173,17 @@ M.~Xia, W.~Dou,
   \item The Provincial Third Prize \hfill Zhejiang Physical Society
 \end{itemize}
 
-\section*{\texttwemoji{2699}~Skills}
+\section*{\makebox[1em][l]{\texttwemoji{2699}}~Skills}
 
 \begin{itemize}
   \item \textbf{IT Skills}:
-  \textsf{MATLAB}, \textsf{Python}, \LaTeX, \textsf{Origin}
-  \item \textbf{Languages:} Proficient English (IELTS: 6.0) ·
-  Semi-skilled Cantonese · Native Chinese
+  \textsf{Python}, \textsf{MATLAB}, \LaTeX, \textsf{Origin}
+  \item \textbf{Languages:}
+  Proficient English (IELTS: 6.0)%
+  \enspace \textbar \enspace
+  Semi-skilled Cantonese%
+  \enspace \textbar \enspace
+  Native Chinese
 \end{itemize}
 
 \end{document}
