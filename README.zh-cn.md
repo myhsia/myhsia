@@ -34,7 +34,7 @@
 
 </div>
 
-- 我目前在开发关联函数计算的新方法, 使用 [MKCT](https://github.com/myhsia/MKCT)（Memory Kernel Coupling Theory，记忆核耦合理论）
+- 我的研究方向为量子动力学.
 
 ## LaTeX 开发者（业余）
 
