@@ -34,7 +34,7 @@
 
 </div>
 
-- Currently, I'm developing a new method for Correlation Function using [MKCT](https://github.com/myhsia/MKCT) (Memory Kernel Coupling Theory)
+- My research focuses on Quantum Dynamics.
 
 ## A Part-Time LaTeX Programmer
 
