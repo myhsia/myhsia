@@ -35,6 +35,7 @@
 </div>
 
 - 我而今開發關聯函數計算嘅新方法, 使用 [MKCT](https://github.com/myhsia/MKCT)（Memory Kernel Coupling Theory, 記憶核耦合理論）
+- 我嘅研究方向係量子動力學.
 
 ## LaTeX 開發者 (Part-Time)
 
