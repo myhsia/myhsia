@@ -44,7 +44,7 @@ Using LaTeX3, I developed some packages
   (Cooperate with [@Eureka](https://github.com/zongpingding)):
   A LaTeX package that converts characters into Ti*k*Z paths.
 - [physics3](https://github.com/myhsia/physics3):
-  A tool for typesetting mathematic/physics formula quickly.
+  A tool for typesetting mathematical/physics formulas quickly.
 - [whatsnote](https://github.com/myhsia/whatsnote):
   LaTeX class provides an elegant layout and powerful tools for taking notes in science, engineering, etc.
 - [litetable](https://github.com/myhsia/litetable):
